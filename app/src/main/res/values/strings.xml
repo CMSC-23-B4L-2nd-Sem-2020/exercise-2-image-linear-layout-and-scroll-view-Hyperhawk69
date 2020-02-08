@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Exercise2</string>
+    <string name="top_text">Which Disney Character are you?</string>
+    <string name="top_change">You are</string>
+    <string name="random_button">Start</string>
+    <string name="disney_bio_text">Find out which Disney character are you!</string>
+    <string name="char_1">Mulan\n\n
+    Fa Mulan is the titular protagonist of Disney\'s 1998 animated feature film of the same name. She is the strong-willed and tenacious daughter of a war veteran, who strives to uphold her family\'s honor. When her father is called back into battle to defend China from Shan Yu, Mulan opts to protect him by taking his place under the guise of a male soldier named Ping.\n\n
+    Mulan is inspired by the legendary Hua Mulan from the Chinese poem The Ballad of Hua Mulan. She is the eighth official Disney Princess and only current one who is not actually royalty through either birth or marriage.\n\n
+    </string>
+    <string name="char_2">Pocahontas\n\n
+    Pocahontas is the titular protagonist of Disney\'s 1995 animated feature film of the same name and its 1998 sequel. She is the daughter of Chief Powhatan, the leader of a Native American tribe in Virginia. With a willfully bold spirit, Pocahontas formed a forbidden friendship with an English settler named John Smith, with whom she would fall in love. Unfortunately, a difference in values sparks a war between the natives and settlers, endangering Pocahontas\' home. Inspired by her love for John, Pocahontas is driven to bring unity to the two worlds before a battle can unfold.\n\n
+    Pocahontas is the seventh official Disney Princess and the first one to be based off an actual person. \n\n
+    </string>
+    <string name="char_3">Belle\n\n
+    Belle is the female protagonist of Disney\'s 1991 animated feature film, Beauty and the Beast. She is the only daughter of Maurice, an inventor with whom she resides in a small, French village. Amongst the townsfolk, Belle is labeled an outcast because of her free-spirit. She is also a proud bibliophile, her favorite genres being fantasy and adventure. Belle\'s passion for fantastical stories, coupled with her outcast status, has left her yearning for a life of adventure outside of her small village. She unexpectedly gets her wish when she becomes prisoner to a Beast in order to save her father\'s life.\n\n
+    Belle is also the fifth official member of the Disney Princess line-up.\n\n
+    </string>
+    <string name="char_4">Rapunzel\n\n
+    Rapunzel is the protagonist of Disney\'s 2010 animated feature film, Tangled. She is the princess of Corona, known for her long, magical, golden hair. As a child, Rapunzel was abducted by a wicked crone and locked away in a remote tower for eighteen years—in during which, she became fascinated with a phenomenon involving "floating lights" that only appear on her birthday. With the aid of the handsome thief, Flynn Rider, Rapunzel escaped her tower to learn more about the lights and pursue her dream of exploring the outside world.\n\n
+    Rapunzel is loosely based on the protagonist of the classic German fairy tale Rapunzel by the Brothers Grimm. She is the tenth official Disney Princess and the first CGI-animated princess.\n\n
+    </string>
+    <string name="char_5">Ariel\n\n
+    Princess Ariel is the protagonist of Disney\'s classic 1989 animated musical fantasy feature film, The Little Mermaid. She is the seventh and youngest daughter of King Triton and Queen Athena, rulers of the undersea kingdom of Atlantica. Ariel lived through much of her young life with a passionate - yet forbidden - admiration of the human world, and longed to someday experience life on the surface.\n\n
+    Ariel is loosely based on the nameless protagonist of the Danish fairy tale "The Little Mermaid" by Hans Christian Andersen. However, unlike Andersen\'s fairy tale in which the nameless protagonist dies, the Disney animated feature film has a happy ending. Ariel is the fourth official member of the Disney Princess line-up.\n\n
+    </string>
+    <string name="char_6">Tia\n\n
+    Princess Tiana of Maldonia (sometimes "Tia") is the protagonist of Disney\'s 2009 animated feature film, The Princess and the Frog. She is a gifted cook living in New Orleans during the Jazz Age, with dreams of opening a restaurant of her own. In a desperate attempt to achieve her goal, Tiana shares a kiss with a prince that had been magically transformed into a frog. In doing so, Tiana falls victim to the curse, as well, setting off an adventure in the bayou to find a cure.\n\n
+    Tiana is the ninth official Disney Princess and the most recent to originate from a traditionally-animated feature.\n\n
+    </string>
+    <string name="char_7">Moana\n\n
+    Moana is the titular protagonist of Disney\'s 2016 animated feature film of the same name. Born on the island village of Motunui, Moana is the daughter of Chief Tui and Sina, with an inherited love for the seas and voyaging. When her island becomes endangered by a life-killing darkness, Moana is chosen by the ocean to journey across the sea to save both her people and the world.\n\n
+    Moana is the twelfth official member of the Disney Princess line-up.\n\n
+    </string>
+    <string name="char_8">Cinderella\n\n
+    Cinderella is the titular protagonist of Disney\'s 1950 animated feature film of the same name. After the death of her father, Cinderella was forced to work as a scullery maid for her wicked stepmother, Lady Tremaine. Despite the cruelty of her jealous stepfamily, Cinderella remained kind, spirited and internally beautiful. Her faith and everlasting optimism manifested in a Fairy Godmother, whose magic served as a catalyst for Cinderella\'s ascent from servant to princess.\n\n
+    Cinderella is the second official Disney Princess, preceded by Snow White.\n\n
+    </string>
+    <string name="char_9">Jasmine\n\n
+    Princess Jasmine is the deuteragonist of Disney\'s 1992 animated feature film, Aladdin. She is an independent, rebellious young princess from Agrabah, a Middle Eastern kingdom ruled by her father, the Sultan. As the future Sultana, Jasmine has a strong sense of obligation to her country. Because of outdated laws, however, she was forbidden to go beyond the palace walls and forced to follow unjust practices. Refusing to be treated like a sheltered object, Jasmine aspires to diverge from her societal confines and have a life where she is free to make her own choices.\n\n
+    Jasmine is loosely based on the character of Princess Badroul from the Aladdin fairy tale featured in the One Thousand and One Nights collection of stories in which the film is based. She is also the sixth official member of the Disney Princess line-up. \n\n
+    </string>
+    <string name="char_10">Snow White\n\n
+    Snow White is the titular protagonist of Disney\'s first animated feature-length film, Snow White and the Seven Dwarfs. She is a young princess; the "Fairest of Them All", whose beauty is defined by her inherent kindness and purity. Shortly after finding love in a charming Prince, Snow White learns that her jealous stepmother, The Evil Queen, is determined to kill her. Snow White forcibly runs away from home to escape the queen\'s wrath, but finds shelter in the cottage of seven dwarfs. Now a refuge, Snow White dreams of reuniting with her prince and living happily ever after.\n\n
+    Snow White is the first and youngest member of the Disney Princess line-up. Her character provided the basis for later heroines in Disney fairytales such as Cinderella, and Aurora from Sleeping Beauty. Many of Snow White\'s traits - such as her royal lineage, friendly relationship with animals, and propensity for singing - continue to inspire both heroes and heroines in Disney animations to this day.\n\n
+    </string>
+    <string name="retry_button">Retry</string>
+</resources>

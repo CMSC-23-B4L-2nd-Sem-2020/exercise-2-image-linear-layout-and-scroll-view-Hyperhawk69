@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/top_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/top_text"
+        android:textAlignment="center"
+        android:textSize="24sp" />
+
+    <ImageView
+        android:id="@+id/disney_image"
+        android:layout_width="match_parent"
+        android:layout_height="374dp"
+        android:contentDescription="@string/disney_bio_text"
+        app:srcCompat="@drawable/disney_logo"
+        tools:srcCompat="@drawable/disney_logo" />
+
+    <Button
+        android:id="@+id/random_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/random_button"
+        android:onClick="randomBio"/>
+
+    <Button
+        android:id="@+id/retry_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/retry_button"
+        android:onClick="retryBio"/>
+
+    <ScrollView
+        android:id="@+id/disney_bio_scroll"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/disney_bio_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/disney_bio_text"
+            android:textAlignment="center" />
+    </ScrollView>
+</LinearLayout>
